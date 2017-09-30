@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 body {
-	background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/squares.png);
+	background-image: url("squares.png");
 	font-family: "Roboto", sans-serif;
 }
 
